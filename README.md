@@ -1,4 +1,5 @@
 # Website Sekolah — Penjelasan Proyek (PHP + MySQL)
+# ini diubh amsal
 
 Dokumen ini menjelaskan semua yang dikerjakan, mengikuti materi Pertemuan 7
 (*Keamanan Transaksi dan Integritas Data*).
