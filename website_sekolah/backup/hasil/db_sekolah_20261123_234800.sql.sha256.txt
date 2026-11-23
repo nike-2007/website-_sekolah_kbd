@@ -1,0 +1,3 @@
+SHA256 hash of C:\laragon\www\website_sekolah\website_sekolah\backup\hasil\db_sekolah_20261123_234800.sql:
+f35ed39256215648868410e7c03cbf0583326c882ad4bd6e3dbad0e1319eeb29
+CertUtil: -hashfile command completed successfully.
